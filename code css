@@ -1,0 +1,5 @@
+pour l'accueil
+text-decoration-line: none;
+    color: white;
+    display: flex;
+    justify-content: right;
